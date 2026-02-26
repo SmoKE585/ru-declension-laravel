@@ -1,5 +1,10 @@
 ﻿# ru-declension-laravel
 
+[![Tests](https://github.com/SmoKE585/ru-declension-laravel/actions/workflows/tests.yml/badge.svg)](https://github.com/SmoKE585/ru-declension-laravel/actions/workflows/tests.yml)
+[![Latest Version](https://img.shields.io/packagist/v/smoke585/ru-declension-laravel.svg)](https://packagist.org/packages/smoke585/ru-declension-laravel)
+[![PHP Version](https://img.shields.io/packagist/php-v/smoke585/ru-declension-laravel.svg)](https://packagist.org/packages/smoke585/ru-declension-laravel)
+[![License](https://img.shields.io/github/license/SmoKE585/ru-declension-laravel.svg)](LICENSE)
+
 Быстрое склонение русских существительных по числу для Laravel.
 
 ## Возможности
